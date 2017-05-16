@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Ebay Project
+## Ebay Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Ebay WatchList Feature Test Project*
 
 **Java 8**
 
